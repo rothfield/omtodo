@@ -1,0 +1,1 @@
+(macroexpand '(.. new-field -value trim))
